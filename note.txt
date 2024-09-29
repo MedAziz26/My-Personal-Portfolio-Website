@@ -1,0 +1,74 @@
+<div class="project">
+                    <div class="projects__img">
+                        <!-- img -->
+                        <img src="./images/project4.png" alt="">
+                      </div>
+  
+                      <div class="projects__info">
+  
+                          <h2>Project 01</h2>
+                          <p>Description: Lorem ipsum dolor sit, amet consectetur adipisicing elit.Excepturi deleniti architecto sapiente.</p>
+                          <button class="button">More details...</button>
+                      </div>
+                    
+                </div>
+
+                <div class="project">
+                    <div class="projects__img">
+                        <!-- img -->
+                        <img src="./images/project5.jpg" alt="">
+                      </div>
+  
+                      <div class="projects__info">
+  
+                          <h2>Project 01</h2>
+                          <p>Description: Lorem ipsum dolor sit, amet consectetur adipisicing elit.Excepturi deleniti architecto sapiente.</p>
+                          <button class="button">More details...</button>
+                      </div>
+                    
+                </div>
+
+                <div class="project">
+                    <div class="projects__img">
+                        <!-- img -->
+                        <img src="./images/bitmap.png" alt="">
+                      </div>
+  
+                      <div class="projects__info">
+  
+                          <h2>Project 01</h2>
+                          <p>Description: Lorem ipsum dolor sit, amet consectetur adipisicing elit.Excepturi deleniti architecto sapiente.</p>
+                          <button class="button">More details...</button>
+                      </div>
+                    
+                </div>
+
+                <div class="project">
+                    <div class="projects__img">
+                        <!-- img -->
+                        <img src="./images/bitmap2.png" alt="">
+                      </div>
+  
+                      <div class="projects__info">
+  
+                          <h2>Project 01</h2>
+                          <p>Description: Lorem ipsum dolor sit, amet consectetur adipisicing elit.Excepturi deleniti architecto sapiente.</p>
+                          <button class="button">More details...</button>
+                      </div>
+                    
+                </div>
+
+                <div class="project">
+                    <div class="projects__img">
+                        <!-- img -->
+                        <img src="./images/project8.jpg" alt="">
+                      </div>
+  
+                      <div class="projects__info">
+  
+                          <h2>Project 01</h2>
+                          <p>Description: Lorem ipsum dolor sit, amet consectetur adipisicing elit.Excepturi deleniti architecto sapiente.</p>
+                          <button class="button">More details...</button>
+                      </div>
+                    
+                </div>
